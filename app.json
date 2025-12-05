@@ -13,22 +13,22 @@
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'PRINCE-MDX~'",
       "required": true,
-      "value": ""
+      "value": "Gifted~H4sIAAAAAAAAA5VU25KiSBD9l3rVGOWuRnTEAqIgoCgq4sY+lFBAKXIpChQn/PcN7Onpedid7eWpqMrIPHnynPwOshxXyEQtmHwHBcENpKg70rZAYAKUOooQAX0QQgrBBLCy9mjlfF1gz5bTaMOQdtqQw2Y8dzHNKB3M7ywvi77Frt/Asw+K+pTi4DcJ25wfDU/JWE+d4Bixntvc5If3GO63CzcJB4rCemJ7HgfNhn8Dzy4jxARnsVYk6IoITE3UOhCTr8FvLX1XK49IPy8VIvZoWmarjZidzNjAx6gRepp3JK4hcHP/a/DHvYgU+8a1xhwUjdAbXF1cUL/aw/XcliCf1pnjjUxFTvN3+BWOMxQaIcoopu2XebeVJEovtcob0t6Cg7siWZuSE9aXxyW3ExjtmHBzG62qfK59DfjJNuLbmWznptSo3lgbcActTMRteXjsIm/DDjXdidCd2OnwV+AO+dDK5f/wblhDr3KzcpF56XRON64XP+YOa7Wn7YGjd1LstpGZLrO990Xe6/IkjROrCvFiAz3dWWvcXleFQ8Kw5o1urdOgSa3Wth4P4xM+pDX5LcpstEtc+3GRmgKl5dphGfdYRbnMHEnVS9MgwruZmGZ7QYLlfmZyx6nPJFxdZu4gYi7EXIxWq9vNiEpe49ae6sHlVL29vTq6oNYIwYR59gFBMa4ogRTnWXcnCX0Aw8ZFAUH0xS4gVx7FMPTwkPXLmlimuyElrM6S4uhhZ0DrNL4pwq2o5DfQBwXJA1RVKNRxRXPS2qiqYIwqMPnzrz7I0J2+z62rxjF9EGFS0V1WF2kOw4+hfjzCIMjrjLptFqjdAREwGX5eI0pxFlcdjXUGSZDgBqkJpBWYRDCt0M8GEUEhmFBSo5+mVfOw43081jmP103QB9fXPHDYrRaBl8bSiJX4oTBhxT+qb7cuLSyKbxmioA/SVxgjsZIgjgSBl0RWekV2D8+fCLuEIaIQpxWYAHU5MM7FSNOsh3ofXeZz+RLLaiyDz44+lPFO/VFvQySbweBMnKo9b1pVF+JFcJKEUi9qKXUi/07tVSJudm//kARMwMOa8au1wSjawUO67LE8wwU75KZ+oNuxPdPGs6Vp+qlZ876kl+tGds6L8D4zhgd7NAvb8V3zQp9RzQOLlvKIK6Tjciq/ddVC1OAA/Vos3+eeX3LoPEhnKRkKl0t67MGioVOscqtDKbZKDRVV9Tn34p+iY5gby6iaFpWGfGXhSI/mYp6UU2PsemTO5roVnuGHZl+eSX/sKvySUzer7jfC6GX9DHYT/O/ZvQPvJDZ89n/J8WOZ/IshFW8zyg6xmjm8+JDsfBjESc9XD/NeDybiqRa2HGufttMcXfbg+fyrD4oU0ignVzABMAtJjkPQBySvO80aWZT/ppgq7wxVjpdd5ymsqPzpgy2+oorCawEmjCTyI0kUGeE9yiF5ocMq6UjYS1K560TdykXhUkg/bAXk7lsxY/D8G+E4NGhxBwAA"
     },  
     "MODE": {
       "description": "Set Mode  to 'public' to work in all chats only, 'inbox' to work in pm(inbox) chats only or 'private' to work for you only. Default is 'public'. You can set up this later using .mode",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "PRINCE"
+      "value": "BEVAN"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 237xxxxx",
       "required": true,
-      "value": "237677224245"
+      "value": "254797827405"
     },
     "ANTI_DELETE": {
       "description": "Can be set to 'inboxonly' to recover for personal chats only, 'chatsonly' to recover for groups and personal chats only or 'true' to recover all chats and status updates. Default is 'false'. You can set up this later using .antidelete",
@@ -94,12 +94,12 @@
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": false,
-      "value": "𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗"
+      "value": "BEVAN SOCEITY 𝐌𝐃𝐗"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
       "required": true,
-      "value": "."
+      "value": "B"
     }
   }
   }
